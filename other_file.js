@@ -1,1 +1,4 @@
-console.log(name)
+'''javascript'''
+var index = require("./index.js")
+
+
